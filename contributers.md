@@ -1,0 +1,3 @@
+# contributers 
+
+- Ayan gupta 🟦⬜🟥
