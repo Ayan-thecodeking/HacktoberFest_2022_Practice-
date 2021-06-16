@@ -3,9 +3,16 @@
 
 # Here-Contributions-Begins💻
 
+># If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
+
+## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK
+
+<hr>
+
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [here are tutorials using GUI tools.](additional-material/git_workflow_scenarios/additional-material.md))_
+
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -45,7 +52,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd Here-Contributions-Begins
 ```
 
 Now create a branch using the `git checkout` command:
@@ -104,17 +111,19 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+**voila** ! You have done it , Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate⭐ your contribution and share it with your friends and followers .
 
 You could join our discord team in case you need any help or have any questions. [Join discord team]( https://discord.gg/FZusE7FH4q).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+
+
+<hr>
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
