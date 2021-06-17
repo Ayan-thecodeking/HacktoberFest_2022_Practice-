@@ -1,7 +1,13 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+<div align="center">
+
+<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/issues"><img src="https://img.shields.io/github/issues/Ayan-thecodeking/Here-Contributions-Begins"></a>
+<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/pulls"><img src="https://img.shields.io/github/issues-pr/Ayan-thecodeking/Here-Contributions-Begins"></a>
+<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/network/members"><img src="https://img.shields.io/github/forks/Ayan-thecodeking/Here-Contributions-Begins"></a>
+<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/stargazers"><img src="https://img.shields.io/github/stars/Ayan-thecodeking/Here-Contributions-Begins"></a>
 
 
-# First Contributions
+# Here-contributions-Begins
 
 | <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
