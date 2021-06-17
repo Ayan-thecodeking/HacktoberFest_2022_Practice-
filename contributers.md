@@ -1,3 +1,3 @@
 # contributers 
-
+- Khazifire
 - Ayan gupta 🟦⬜🟥
