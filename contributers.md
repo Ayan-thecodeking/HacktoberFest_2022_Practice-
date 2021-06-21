@@ -1,5 +1,6 @@
 ﻿# contributers 
-- Khazifire
+ 
 - Ayan gupta 🟦⬜🟥
+- Khazifire
 - Hoopinwhoopin
 - OkikiJESUTech
