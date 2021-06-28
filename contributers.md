@@ -2,5 +2,6 @@
  
 - Ayan gupta 🟦⬜🟥
 - Khazifire
+- Jino
 - Hoopinwhoopin
 - OkikiJESUTech
