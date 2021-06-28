@@ -2,6 +2,11 @@
  
 - Ayan gupta 🟦⬜🟥
 - Khazifire
+- Jino
 - Hoopinwhoopin
 - OkikiJESUTech
--Sanjeev Kumar
+
+- Sanjeev Kumar
+
+- Dhanashree Gaikwad
+
