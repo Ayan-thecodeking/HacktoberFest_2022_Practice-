@@ -6,7 +6,7 @@
 - Aditya Ranjan
 - Hoopinwhoopin
 - OkikiJESUTech
-
+- Jay Parmar
 - Sanjeev Kumar
 
 - Dhanashree Gaikwad
