@@ -8,6 +8,6 @@
 - OkikiJESUTech
 - Jay Parmar
 - Sanjeev Kumar
-- Hrugved Kolhe 
+- Hrugved Kolhe
 - Dhanashree Gaikwad
 
