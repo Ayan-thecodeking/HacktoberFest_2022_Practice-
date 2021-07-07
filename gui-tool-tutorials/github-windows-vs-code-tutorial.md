@@ -120,5 +120,4 @@ You can join our slack team in case you need any help or have any questions. [Jo
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
-[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+## star this repositary
