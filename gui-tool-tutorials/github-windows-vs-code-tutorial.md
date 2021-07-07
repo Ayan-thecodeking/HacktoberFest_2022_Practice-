@@ -115,9 +115,9 @@ Congrats!! You have just completed the standard _fork -> clone -> edit -> PR_ wo
 
 
 
-You can join our slack team in case you need any help or have any questions. [Join discord team]( https://discord.gg/FZusE7FH4q).
+You can join our discord team in case you need any help or have any questions. [Join discord team]( https://discord.gg/FZusE7FH4q).
 
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+
 
 ## star this repositary
