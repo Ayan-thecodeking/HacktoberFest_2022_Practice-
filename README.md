@@ -131,7 +131,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate⭐ your contribution and share it with your friends and followers .
 
-You could join our discord team in case you need any help or have any questions. [Join discord team]( https://discord.gg/FZusE7FH4q).
+You could join our discord team in case you need any help or have any questions. [Join discord team]( https://discord.gg/XMuEPgCj6y).
 
 
 
