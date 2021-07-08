@@ -11,3 +11,4 @@
 - Sanjeev Kumar
 - Hrugved Kolhe
 - Dhanashree Gaikwad
+- Mohasin Haque(Praying for your bright future..)
