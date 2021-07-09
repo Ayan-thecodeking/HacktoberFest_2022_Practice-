@@ -3,6 +3,7 @@
 - Ayan gupta 🟦⬜🟥
 - Khazifire
 - Jino
+- Joshith Reddy Gopidi
 - Aditya Ranjan
 - Hoopinwhoopin
 - OkikiJESUTech
