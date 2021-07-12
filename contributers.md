@@ -1,6 +1,6 @@
-﻿# contributers 
+# contributers 
  
-- Ayan gupta 🟦⬜🟥
+- Ayan gupta ?????
 - Khazifire
 - Jino
 - Joshith Reddy Gopidi
@@ -10,6 +10,7 @@
 - Tegveer Singh Bhatia
 - Jay Parmar
 - Sanjeev Kumar
+- Rutuja Mugal
 - Hrugved Kolhe
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
