@@ -9,6 +9,7 @@
 - OkikiJESUTech
 - Tegveer Singh Bhatia
 - Jay Parmar
+- Abhishek Morla (abhishekmorla)
 - Sanjeev Kumar
 - Rutuja Mugal
 - Ruhee Jain
