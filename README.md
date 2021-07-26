@@ -129,7 +129,7 @@ Now submit the pull request.
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
-Celebrate⭐ your contribution and share it with your friends and followers .
+Celebrate⭐ your contribution and share it with your friends and followers.
 
 You could join our discord team in case you need any help or have any questions. [Join discord team](https://discord.gg/XMuEPgCj6y).
 
