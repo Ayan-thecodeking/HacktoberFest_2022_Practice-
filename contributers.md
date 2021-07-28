@@ -10,7 +10,8 @@
 - Tegveer Singh Bhatia
 - Jay Parmar
 - Abhishek Morla (abhishekmorla)
-- Sanjeev Kumar
+- Sanjeev Kumar'
+- Ansh Rohatgi 
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
