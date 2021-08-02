@@ -139,7 +139,7 @@ You could join our discord team in case you need any help or have any questions.
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using VS-CODE
+## Tutorials Using VS-CODE ...
 
  <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> 
 
