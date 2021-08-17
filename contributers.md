@@ -8,6 +8,7 @@
 - Hoopinwhoopin
 - OkikiJESUTech
 - Tegveer Singh Bhatia
+- Atisheel Yadav
 - Jay Parmar
 - Abhishek Morla (abhishekmor
 - Ahamed Basha N
