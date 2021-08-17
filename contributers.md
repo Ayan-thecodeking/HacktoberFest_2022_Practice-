@@ -13,7 +13,6 @@
 - Abhishek Morla (abhishekmor
 - Ahamed Basha N
 - Sanjeev Kumar
--
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
