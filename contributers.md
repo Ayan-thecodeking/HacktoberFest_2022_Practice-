@@ -1,6 +1,7 @@
 # contributers
 
 - Ayan gupta ?????
+- [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
 - Jino
 - Joshith Reddy Gopidi
