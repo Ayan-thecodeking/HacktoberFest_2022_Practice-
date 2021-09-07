@@ -19,6 +19,7 @@
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
+- Simpola Suristus
 - Hrugved Kolhe
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
