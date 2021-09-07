@@ -13,7 +13,7 @@
 - Abhishek Morla (abhishekmor
 - Ahamed Basha N
 - Sanjeev Kumar
-
+- Jck-ops
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
@@ -22,4 +22,5 @@
 - Mohasin Haque(Praying for your bright future..)
 - ShunKang Kong
 - AvidCoder101
--Shivam-officials:[https://github.com/Shivam-officials]
+- Shivam-officials:[https://github.com/Shivam-officials]
+
