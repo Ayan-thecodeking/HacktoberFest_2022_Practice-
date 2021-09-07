@@ -2,6 +2,7 @@
 
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
+- [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
 - Jino
 - Joshith Reddy Gopidi
