@@ -8,6 +8,7 @@
 - Joshith Reddy Gopidi
 - Aditya Ranjan
 - Hoopinwhoopin
+- Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
 - Tegveer Singh Bhatia
 - Atisheel Yadav
