@@ -21,6 +21,7 @@
 - Ruhee Jain
 - Induri Deepthi
 - Simpola Suristus
+- Avinash Shukla
 - Hrugved Kolhe
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
