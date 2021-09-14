@@ -10,7 +10,7 @@
 
 # Here-Contributions-Begins💻
 
-># If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
+># Omkar  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
  <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
