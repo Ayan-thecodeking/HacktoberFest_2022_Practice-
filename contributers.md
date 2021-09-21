@@ -17,6 +17,7 @@
 - Ahamed Basha N
 - Sanjeev Kumar
 - Jck-ops
+- [Akshay Mohan](https://github.com/AkshayHere)
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
