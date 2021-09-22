@@ -16,8 +16,8 @@
 - Abhishek Morla (abhishekmor
 - Ahamed Basha N
 - Sanjeev Kumar
-- Jck-ops
 - [Akshay Mohan](https://github.com/AkshayHere)
+- Jck-ops
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
