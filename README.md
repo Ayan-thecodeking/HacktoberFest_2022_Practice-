@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/issues"><img src="https://img.shields.io/github/issues/Ayan-thecodeking/Here-Contributions-Begins"></a>
@@ -6,11 +5,9 @@
 <a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/network/members"><img src="https://img.shields.io/github/forks/Ayan-thecodeking/Here-Contributions-Begins"></a>
 <a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/stargazers"><img src="https://img.shields.io/github/stars/Ayan-thecodeking/Here-Contributions-Begins"></a>
 
-
-
 # Here-Contributions-Begins💻
 
-># Omkar  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
+> # Omkar If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
  <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
@@ -23,8 +20,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-> _If you're not comfortable with command line_ There are tutorials using GUI tools like **VS-Code** check out in bottom 
-
+> _If you're not comfortable with command line_ There are tutorials using GUI tools like **VS-Code** check out in bottom
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -83,7 +79,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -92,7 +88,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
@@ -133,23 +129,20 @@ Celebrate⭐ your contribution and share it with your friends and followers.
 
 You could join our discord team in case you need any help or have any questions. [Join discord team](https://discord.gg/XMuEPgCj6y).
 
-
-
 <hr>
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using VS-CODE ...
 
- <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> 
+<a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>
 
-[Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                               
+[Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)
 
 <br>
 <br>
 <hr>
 <h2 align="center">📫 Reach out to me on</h2>
-
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayan-gupta-%F0%9F%87%AE%F0%9F%87%B3-924833201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -158,4 +151,4 @@ You could join our discord team in case you need any help or have any questions.
 
 <br>
 
-  > Do share and Star this repositatory :))
+> Do share and Star this repositatory :))
