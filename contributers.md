@@ -29,4 +29,4 @@
 - AvidCoder101
 - Shivam-officials:[https://github.com/Shivam-officials]
 - Koustav Kumar 
-- [Pranav Pratap Singh](https://github.com/Pranav108)
+- Shruti
