@@ -1,5 +1,6 @@
 # contributers
 
+- [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
 - [Rohit Tewari](https://github.com/rtewari056)
@@ -29,6 +30,6 @@
 - ShunKang Kong
 - AvidCoder101
 - Shivam-officials:[https://github.com/Shivam-officials]
-- Koustav Kumar 
+- Koustav Kumar
 - Shruti
 - [Pranav Pratap Singh](https://github.com/Pranav108)
