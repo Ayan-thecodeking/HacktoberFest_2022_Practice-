@@ -5,6 +5,7 @@
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
 - Jino
+- technoJac
 - Joshith Reddy Gopidi
 - Aditya Ranjan
 - Hoopinwhoopin
@@ -29,6 +30,6 @@
 - ShunKang Kong
 - AvidCoder101
 - Shivam-officials:[https://github.com/Shivam-officials]
-- Koustav Kumar 
+- Koustav Kumar
 - Shruti
 - [Pranav Pratap Singh](https://github.com/Pranav108)
