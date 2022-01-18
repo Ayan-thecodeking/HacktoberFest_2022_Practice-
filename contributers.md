@@ -34,5 +34,6 @@
 - Shivam-officials:[https://github.com/Shivam-officials]
 - Koustav Kumar
 - Shruti
+- Blaze2305
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 -Soumya
