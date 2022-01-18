@@ -1,16 +1,20 @@
 # contributers
 
+- [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
+- ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
 - Jino
+- technoJac
 - Joshith Reddy Gopidi
 - Aditya Ranjan
 - Hoopinwhoopin
 - Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
 - Tegveer Singh Bhatia
+- Lavanya Lenka [Github](https://github.com/Lavanyasuc31)
 - Atisheel Yadav
 - Jay Parmar
 - Abhishek Morla (abhishekmor
@@ -31,5 +35,7 @@
 - Shivam-officials:[https://github.com/Shivam-officials]
 - Koustav Kumar
 - Shruti
+- Shaun Liew (https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Sahil Sareen](https://github.com/sahilsarin390)
+- [Soumya Dash](https://github.com/soumya-dash3)

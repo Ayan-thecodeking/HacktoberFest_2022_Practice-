@@ -10,14 +10,14 @@
 
 # Here-Contributions-Begins💻
 
-># Omkar  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
+># Hello,  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
  <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
     </h3>
     
     
-## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK .
+## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK 
 
 <hr>
 
@@ -158,4 +158,5 @@ You could join our discord team in case you need any help or have any questions.
 
 <br>
 
-  > Do share and Star this repositatory :))
+  > Do share and Star this repositatory :)/
+ 
