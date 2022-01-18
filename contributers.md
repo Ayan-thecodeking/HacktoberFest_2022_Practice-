@@ -3,7 +3,7 @@
 - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
--ashwini
+- ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
 - Jino
