@@ -11,6 +11,7 @@
 - Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
 - Tegveer Singh Bhatia
+- Lavanya Lenka [Github](https://github.com/Lavanyasuc31)
 - Atisheel Yadav
 - Jay Parmar
 - Abhishek Morla (abhishekmor
