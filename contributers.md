@@ -3,6 +3,7 @@
 - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
+- Tushar Gupta: [Github](https://github.com/Tushar-2003) [LinkedIn](https://www.linkedin.com/in/tushargupta3002/)
 - ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
@@ -32,10 +33,10 @@
 - Mohasin Haque(Praying for your bright future..)
 - ShunKang Kong
 - AvidCoder101
-- Shivam-officials:[https://github.com/Shivam-officials]
+- [Shivam-officials:](https://github.com/Shivam-officials)
 - Koustav Kumar
 - Shruti
-- Shaun Liew (https://github.com/shaunliew)
+- [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
 
