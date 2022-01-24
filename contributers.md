@@ -7,7 +7,8 @@
 - ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
-- Jino
+- Jino 
+- [Krish Chopra](https://github.com/KrishChopra22)
 - technoJac
 - Joshith Reddy Gopidi
 - Aditya Ranjan
