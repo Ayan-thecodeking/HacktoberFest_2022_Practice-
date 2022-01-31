@@ -39,5 +39,5 @@
 - Shruti
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
+- [Sahil Sareen](https://github.com/sahilsarin390)
 - [Soumya Dash](https://github.com/soumya-dash3)
-
