@@ -15,6 +15,7 @@
 - Hoopinwhoopin
 - Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
+- [Lakshay Tyagi](https://github.com/imlakshay08)
 - Tegveer Singh Bhatia
 - Lavanya Lenka [Github](https://github.com/Lavanyasuc31)
 - Atisheel Yadav
