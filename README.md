@@ -158,5 +158,5 @@ You could join our discord team in case you need any help or have any questions.
 
 <br>
 
-  > Do share and Star this repositatory :)
+  > Do share and Star this repositatory :)))
  
