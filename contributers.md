@@ -1,4 +1,4 @@
-# contributers
+# Contributors
 
 - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
