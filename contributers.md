@@ -1,4 +1,4 @@
-# contributers
+# Contributors
 
 - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
@@ -40,4 +40,4 @@
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
-
+- Piyushraj Singh [Github](https://github.com/Piy6513)
