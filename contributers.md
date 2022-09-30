@@ -42,4 +42,6 @@
 - [Soumya Dash](https://github.com/soumya-dash3)
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
+- [Subhendu Adhikari](https://github.com/Subhendu0802)
+
 
