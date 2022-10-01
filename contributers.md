@@ -3,6 +3,7 @@
 - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 - EFFLUX: [Github](https://github.com/EFFLUX110) , [Instagram](https://www.instagram.com/_efflux__/)
 - Ayan gupta ?????
+- Jatin Saini: [yunocrown](https://github.com/yunocrown)
 - Tushar Gupta: [Github](https://github.com/Tushar-2003) [LinkedIn](https://www.linkedin.com/in/tushargupta3002/)
 - ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
