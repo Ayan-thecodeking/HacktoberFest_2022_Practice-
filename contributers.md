@@ -37,6 +37,7 @@
 - [Shivam-officials:](https://github.com/Shivam-officials)
 - Koustav Kumar
 - Shruti
+- [Anish Shilpakar](https://github.com/JuJu2181)
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
