@@ -30,6 +30,7 @@
 - Simpola Suristus
 - Avinash Shukla
 - Hrugved Kolhe
+- Izma Aziz
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
 - ShunKang Kong
