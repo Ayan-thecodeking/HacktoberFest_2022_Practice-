@@ -29,6 +29,7 @@
 - Induri Deepthi
 - Simpola Suristus
 - Avinash Shukla
+- Aditya Sai
 - Hrugved Kolhe
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
