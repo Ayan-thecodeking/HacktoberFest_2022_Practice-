@@ -7,7 +7,7 @@
 - ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
-- Jino 
+- Jino
 - [Krish Chopra](https://github.com/KrishChopra22)
 - technoJac
 - Joshith Reddy Gopidi
@@ -25,6 +25,7 @@
 - [Akshay Mohan](https://github.com/AkshayHere)
 - Jck-ops
 - Rutuja Mugal
+- Vinayak Sharma[Github](https://github.com/CulturalProfessor)
 - Ruhee Jain
 - Induri Deepthi
 - Simpola Suristus
@@ -42,4 +43,3 @@
 - [Soumya Dash](https://github.com/soumya-dash3)
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
-
