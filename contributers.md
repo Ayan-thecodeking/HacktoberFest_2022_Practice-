@@ -36,6 +36,7 @@
 - AvidCoder101
 - [Shivam-officials:](https://github.com/Shivam-officials)
 - Koustav Kumar
+- Srijan (Just exploring Open Source world !!).
 - Shruti
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
