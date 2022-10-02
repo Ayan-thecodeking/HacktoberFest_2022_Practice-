@@ -13,10 +13,10 @@
 - Joshith Reddy Gopidi
 - Aditya Ranjan
 - Hoopinwhoopin
-- Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
+- [Priyanshu Vaishnavi](https://github.com/priyanshu688)
 - OkikiJESUTech
 - Tegveer Singh Bhatia
-- Lavanya Lenka [Github](https://github.com/Lavanyasuc31)
+- [Lavanya Lenka](https://github.com/Lavanyasuc31)
 - Atisheel Yadav
 - Jay Parmar
 - Abhishek Morla (abhishekmor
@@ -40,6 +40,6 @@
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
-- Piyushraj Singh [Github](https://github.com/Piy651)
-- Rishabh Chauhdhari(https://github.com/Raporaz03)
+- [Piyushraj Singh](https://github.com/Piy651)
+- [Rishabh Chauhdhari](https://github.com/Raporaz03)
 - [Priyanshu Haldar](https://github.com/priyanshuhaldar007)
