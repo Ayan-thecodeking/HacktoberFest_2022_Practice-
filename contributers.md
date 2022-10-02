@@ -22,6 +22,7 @@
 - Abhishek Morla (abhishekmor
 - Ahamed Basha N
 - Sanjeev Kumar
+- Sarthak Rajput(https://github.com/rsarthak)
 - [Akshay Mohan](https://github.com/AkshayHere)
 - Jck-ops
 - Rutuja Mugal
