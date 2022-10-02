@@ -16,6 +16,7 @@
 - Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
 - Tegveer Singh Bhatia
+- Danish Abdullah [https://github.com/DanishAbdullahPy]
 - Lavanya Lenka [Github](https://github.com/Lavanyasuc31)
 - Atisheel Yadav
 - Jay Parmar
