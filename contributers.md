@@ -46,5 +46,6 @@
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
+- Rashika Rawat [Github](https://github.com/RR190701)
 
 
