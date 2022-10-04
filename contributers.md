@@ -29,6 +29,7 @@
 - Induri Deepthi
 - Simpola Suristus
 - Avinash Shukla
+- Pakhi Vashishth
 - Hrugved Kolhe
 - Dhanashree Gaikwad
 - Mohasin Haque(Praying for your bright future..)
@@ -36,11 +37,14 @@
 - AvidCoder101
 - [Shivam-officials:](https://github.com/Shivam-officials)
 - Koustav Kumar
+- Srijan (Just exploring Open Source world !!).
 - Shruti
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
+
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
+
 
