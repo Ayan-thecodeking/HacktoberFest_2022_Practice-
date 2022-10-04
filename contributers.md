@@ -46,5 +46,5 @@
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
-
+- Pratap Parui [Website](https://www.mrparuiweb.dev), [Github](https://github.com/pratap360)
 
