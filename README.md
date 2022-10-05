@@ -13,6 +13,7 @@
 ># Hi,  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
 <div align="center">
+   <h2 align="center">📫 Join for More </h2>
    <a href="https://discord.gg/XMuEPgCj6y ">
  <img  alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
    <a href="https://chat.whatsapp.com/EGM3Sodus9W3Q9CavBKhiM">
