@@ -28,6 +28,7 @@
 - Ruhee Jain
 - Induri Deepthi
 - Simpola Suristus
+- Divyansh Singh [Github](https://github.com/Divyansh1315)
 - Avinash Shukla
 - Pakhi Vashishth
 - Hrugved Kolhe
