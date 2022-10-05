@@ -24,7 +24,6 @@
 - Sanjeev Kumar
 - [Akshay Mohan](https://github.com/AkshayHere)
 - Jck-ops
-- Aakanksha Chahal
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
@@ -38,6 +37,7 @@
 - [Shivam-officials:](https://github.com/Shivam-officials)
 - Koustav Kumar
 - Shruti
+- Aakanksha Chahal
 - [Shaun Liew](https://github.com/shaunliew)
 - [Pranav Pratap Singh](https://github.com/Pranav108)
 - [Soumya Dash](https://github.com/soumya-dash3)
