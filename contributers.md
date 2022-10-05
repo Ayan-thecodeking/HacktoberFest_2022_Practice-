@@ -24,6 +24,7 @@
 - Sanjeev Kumar
 - [Akshay Mohan](https://github.com/AkshayHere)
 - Jck-ops
+- Aakanksha Chahal
 - Rutuja Mugal
 - Ruhee Jain
 - Induri Deepthi
