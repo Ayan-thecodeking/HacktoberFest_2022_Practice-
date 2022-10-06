@@ -28,6 +28,7 @@
 - Ruhee Jain
 - Induri Deepthi
 - Simpola Suristus
+- Divyansh Singh [Github](https://github.com/Divyansh1315)
 - Avinash Shukla
 - Pakhi Vashishth
 - Hrugved Kolhe
@@ -46,6 +47,7 @@
 - Piyushraj Singh [Github](https://github.com/Piy651)
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
+- Rashika Rawat [Github](https://github.com/RR190701)
 - Subhendu Adhikari [Github](https://github.com/Subhendu0802)
 
 

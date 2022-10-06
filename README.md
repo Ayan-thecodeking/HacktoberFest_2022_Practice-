@@ -12,9 +12,14 @@
 
 ># Hi,  If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
- <h3 align="center">
-    <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
-    </h3>
+<div align="center">
+   <h2 align="center">📫 Join for More </h2>
+   <a href="https://discord.gg/XMuEPgCj6y ">
+ <img  alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+   <a href="https://chat.whatsapp.com/EGM3Sodus9W3Q9CavBKhiM">
+ <img  alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+</div>
+    
     
     
 ## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK 
@@ -151,12 +156,22 @@ You could join our discord team in case you need any help or have any questions.
 <h2 align="center">📫 Reach out to me on</h2>
 
 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayan-gupta-%F0%9F%87%AE%F0%9F%87%B3-924833201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/CodeXayan_?s=09"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
+<h1 align=center> project Admin ❤️ </h1>
+
+
+  <div align="center">
+<table>
+<tr>
+
+<td align="center"><a href="https://github.com/Ayan-thecodeking"><img src="https://avatars.githubusercontent.com/u/78692566?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ayan Gupta</h4>
+<a href="https://twitter.com/CodeXayan_?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a>
+     <a href="https://www.linkedin.com/in/ayan-gupta-924833201"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+     <a href="https://www.instagram.com/_the_flame_king_?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
+
+</tr>
+</table>
 
 <br>
 
-  > Do share and Star this repositatory :)))
+  > Do share and Star ⭐ this repositatory :)))
  
