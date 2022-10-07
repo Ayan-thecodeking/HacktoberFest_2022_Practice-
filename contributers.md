@@ -7,7 +7,7 @@
 - ashwini
 - [Rohit Tewari](https://github.com/rtewari056)
 - Khazifire
-- Jino 
+- Jino
 - [Krish Chopra](https://github.com/KrishChopra22)
 - technoJac
 - Joshith Reddy Gopidi
@@ -48,5 +48,4 @@
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
 - Rashika Rawat [Github](https://github.com/RR190701)
-
-
+- Vivian Nicholls (I dont know if i have done this right)[Github](https://github.com/viv-nic)
