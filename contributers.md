@@ -48,5 +48,6 @@
 - Rishabh Chauhdhari(https://github.com/Raporaz03)
 - Akshraj Chavda [Github](https://github.com/akshraj-05)
 - Rashika Rawat [Github](https://github.com/RR190701)
+- Max Muller [Github](https://github.com/MMVonnSeek)
 
 
