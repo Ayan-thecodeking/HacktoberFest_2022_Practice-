@@ -15,9 +15,6 @@
  <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
     </h3>
-    
-    
-## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK 
 
 <hr>
 
