@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# First Contribution
 
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
@@ -26,9 +26,9 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+Now clone this repo to your device.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
+IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your forked repo and clone it.
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
