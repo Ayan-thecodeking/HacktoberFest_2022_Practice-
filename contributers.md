@@ -12,6 +12,7 @@
 - technoJac
 - Joshith Reddy Gopidi
 - Aditya Ranjan
+- Prakriti Mandal
 - Hoopinwhoopin
 - Priyanshu Vaishnavi [Github](https://github.com/priyanshu688)
 - OkikiJESUTech
